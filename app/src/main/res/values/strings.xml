@@ -1,3 +1,39 @@
 <resources>
     <string name="app_name">kfu_itis_android_tasks_2_semester</string>
+
+        <!--  Exceptions  -->
+    <string name="user_not_authorized">You are not authorized</string>
+    <string name="too_many_requests">The number of request attempts exceeded</string>
+    <string name="page_not_found">City not found</string>
+    <string name="bad_request">Bad request</string>
+    <string name="server_exception">Server is not response</string>
+    <string name="empty_weather_response">City not found</string>
+    <string name="unknown_error">Unknown error occurred</string>
+
+
+        <!--  Text Views  -->
+    <string name="weather_header">Weather forecast</string>
+    <string name="temperature">Temperature: %d</string>
+    <string name="feels_temperature">Feels like: %d</string>
+    <string name="min_temperature">Minimum temperature: %d</string>
+
+    <string name="application_name">Application: %s</string>
+    <string name="base_url">API url: %s</string>
+    <string name="version_name">Version name: %s</string>
+    <string name="version_code">Version code: %d</string>
+    <string name="manufacturer">Manufacturer: %s</string>
+    <string name="model">Model: %s</string>
+    <string name="android_digital_version">Android: %s</string>
+    <string name="api_version">API: %d</string>
+
+
+        <!--  Buttons  -->
+    <string name="search">Search</string>
+
+
+    <string name="city_hint">City</string>
+    <string name="empty_city_input_error">Enter a city</string>
+    <string name="incorrect_city_input_error">City must contain only Latin alphabetic characters</string>
+
+    <string name="icon_url">https://openweathermap.org/img/wn/%s@2x.png</string>
 </resources>
